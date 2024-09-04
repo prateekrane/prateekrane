@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prateekrane](https://github.com/prateekrane)
 
-- 💬 Ask me about **React_native & C++**
+- 💬 Ask me about **React-native & C++**
 
 - 📫 How to reach me **prateekrane7@gmail.com**
 
