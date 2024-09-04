@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Prateek Rane</h1>
 <h3 align="center">C/C++ | DSA | React-Native | SQL | PowerBI | Git</h3>
-
-
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/d3fcfe478a3a21468da489294ce1346ffbf7ed00877f290a2b477b9f7a734296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekrane&label=Profile%20views&color=0e75b6&style=flat" alt="prateekrane" /> </p>
 
@@ -18,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prateek-rane-5a9496214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prateek-rane-5a9496214" height="30" width="40" /></a>
+<a href="https://instagram.com/prate_ek30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prate_ek30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
