@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFSkgbk3HwoKA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687807348247?e=1730937600&v=beta&t=Q_ua0vkygps6OMIMM6wN-a6dkmwxQi3MTIpn6hqYV5Y)](https://github.com/prateekrane)
 
 <h1 align="center">Hi 👋, I'm Prateek Rane</h1>
-<h3 align="center">Client-Side Developer</h3>
+<h3 align="center">Hybrid App Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/d3fcfe478a3a21468da489294ce1346ffbf7ed00877f290a2b477b9f7a734296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekrane&label=Profile%20views&color=0e75b6&style=flat" alt="prateekrane" /> </p>
 
